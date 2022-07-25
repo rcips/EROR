@@ -896,7 +896,7 @@ p {
     }
 
     .container-banner {
-        width: 110%;
+        width: 1200px;
         margin-left: 0;
         margin-right: 0;
     }
@@ -904,9 +904,10 @@ p {
         margin-left: 5px;
     }
 
-    .container-dev 
+    .container-dev {
 display : flex;
 flex-wrap: wrap;
+    }
         margin-left: 20px;
         width: 300px
     }
